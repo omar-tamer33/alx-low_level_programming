@@ -1,4 +1,7 @@
 #include <stdio.h>
+/**
+ * omar tamer
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
